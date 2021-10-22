@@ -1,9 +1,9 @@
 <?php
 
-$host = "https://dev-damas.com:3306";
-$username = "damasbot";
-$password = "Mm5329924";
-$db = "wagate";
+$host = "sql206.epizy.com";
+$username = "epiz_29938962";
+$password = "5NKIUCFwimtVHgt";
+$db = "epiz_29938962_wagate";
 
 $koneksi = mysqli_connect($host, $username, $password, $db) or die("GAGAL");
 
