@@ -1,6 +1,6 @@
 <?php
 
-$host = "http://92.205.13.208";
+$host = "https://dev-damas.com/";
 $username = "damasbot";
 $password = "Mm5329924";
 $db = "wagate";
